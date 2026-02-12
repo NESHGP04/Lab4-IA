@@ -1,4 +1,4 @@
-# Lab – Task 2: Implementación “Bare Metal” de Métodos de Gradiente
+# Laboratorio 4 
 
 ## 📌 Descripción
 
